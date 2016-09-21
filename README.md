@@ -31,4 +31,4 @@ At this point the user is ready to open files locally, write code (in the Atom t
 
 ## Reference links
 
-- https://github.com/flatiron-labs/learn-support/blob/master/onboardin-flow.md
+- [Onboarding Flow in Reference Guide](https://github.com/flatiron-labs/learn-support/blob/master/onboardin-flow.md)
