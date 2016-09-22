@@ -2,7 +2,7 @@
 
 ## When a user signs up for Learn...
 
-In July 2015 a new on-boarding flow was set up between flatironschool.com and learn.co. Below is what the new flow looks like for the students:
+In July 2016 a new on-boarding flow was set up between flatironschool.com and learn.co. Below is what the new flow looks like for the students:
 
 ![New On Boarding ](https://s3.amazonaws.com/learn-experts/new-onboarding.png "New On Boarding")
 
@@ -14,13 +14,13 @@ The general workflow for all users joining Learn now looks like the following:
 2. On-boarding flow prompts user to download the Learn IDE at the last lesson of the Welcome to Learn track.
 3. User clicks to download and is prompted to create a password to go with their email account.
 4. User is automatically served the correct binary for their operating system (OS X, Windows, Linux)
-5. User launches the Learn IDE
-6. User logs into the Learn IDE with their email and password (they haven't connected their github yet)
+5. User installs and launches the Learn IDE
+6. User logs into the Learn IDE via the prompt with their email and password (they haven't connected their github yet)
 7. Once they've authenticated, they solve their first 'lab' in the welcome track. (This is not a real lab because you cannot make a real PR without a github account)
 8. The student leaves the Welcome track and goes to some other track of their choice (free, certificate...)
 9. At the first lab on this _non-Welcome track_, the student connects/creates their github account and they now have it linked to Learn and the IDE.
 
-The workflow from this point forward is straightforward: to work on a lab, the user is expected to simply use the Open button on Learn. This will automatically:
+The workflow from this point on is straightforward: to work on a lab, the user is expected to simply use the Open button on Learn. This will automatically:
 
 1. Fork and clone the repo (to their workspace on the Learn IDE server)
 2. Open their Learn IDE instance locally
