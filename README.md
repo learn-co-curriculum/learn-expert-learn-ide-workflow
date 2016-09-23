@@ -10,7 +10,7 @@ This may look really confusing and you don't have to memorize it, but it's a goo
 
 The general workflow for all users joining Learn now looks like the following:
 
-1. User signs up for Learn, first creating a GitHub account
+1. User signs up for a course on flatironschool.com with an email address and is forwarded to Learn.
 2. On-boarding flow prompts user to download the Learn IDE at the last lesson of the Welcome to Learn track.
 3. User clicks to download and is prompted to create a password to go with their email account.
 4. User is automatically served the correct binary for their operating system (OS X, Windows, Linux)
